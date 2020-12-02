@@ -1,3 +1,4 @@
+# https://www.kaggle.com/c/lish-moa/overview - Competition overview
 # Forked from https://www.kaggle.com/simakov/keras-multilabel-neural-network-v1-2
 # 23814 training observations, 874 features, predicting 206 mechanisms of action. Multilabel problem (multi class but not mutually exclusive).
 # score: 0.01648, 1726/4384 teams
